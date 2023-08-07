@@ -159,4 +159,7 @@ body {
     padding: 45%;
     margin: 3px;
   }
+  .sticky-top {
+    overflow: hidden;
+  }
 }
