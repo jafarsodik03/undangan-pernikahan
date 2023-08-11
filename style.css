@@ -148,6 +148,14 @@ body {
   .sticky-top {
     overflow: hidden;
   }
+  .offcanvas .offcanvas-end {
+    left: 0;
+    top: 0;
+  }
+
+  .offcanvas .offcanvas-end .offcanvas-header .offcanvas-body {
+    width: 100vw;
+  }
 }
 
 /* mobile phone */
@@ -160,12 +168,12 @@ body {
     margin: 3px;
   }
 
-  .offcanvas .offcanvas-end {
+  /* .offcanvas .offcanvas-end {
     left: 0;
     top: 0;
   }
 
   .offcanvas .offcanvas-end .offcanvas-header .offcanvas-body {
     width: 100vw;
-  }
+  } */
 }
