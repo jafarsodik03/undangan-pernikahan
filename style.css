@@ -151,7 +151,7 @@ body {
 }
 
 /* mobile phone */
-@media (max-width: 100px) {
+/* @media (max-width: 100px) {
   hmtl {
     font-size: 60%;
   }
@@ -159,4 +159,4 @@ body {
     padding: 45%;
     margin: 3px;
   }
-}
+} */
