@@ -148,16 +148,19 @@ body {
   .sticky-top {
     overflow: hidden;
   }
-  /* .mynavbar .offcanvas .offcanvas-end {
+
+  .navbar {
+    width: 100vw;
+  }
+
+  .offcanvas {
     left: 0;
     top: 0;
   }
 
-  .mynavbar .offcanvas .offcanvas-end .offcanvas-header .offcanvas-body {
-    width: 80%;
-    display: flex;
-    flex-direction: column;
-  } */
+  .offcanvas .offcanvas-end .offcanvas-header .offcanvas-body {
+    width: 100vw;
+  }
 }
 
 /* mobile phone */
